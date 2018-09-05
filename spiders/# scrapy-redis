@@ -1,0 +1,10 @@
+# scrapy-redis
+
+## 增量爬虫实现
+1. 安装 scrapy-redis
+```
+pip install scdrapy-redis
+```
+
+2. 配置使用scrapy-redis
+
